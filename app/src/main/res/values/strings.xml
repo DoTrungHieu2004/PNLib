@@ -1,3 +1,46 @@
 <resources>
     <string name="app_name">PNLib</string>
+
+    <!-- Button texts -->
+    <string name="login">Đăng nhập</string>
+    <string name="cancel">Hủy</string>
+    <string name="save">Lưu</string>
+
+    <!-- Checkbox -->
+    <string name="checkbox_remember">Lưu mật khẩu</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_revenue">Icon thống kê doanh thu</string>
+    <string name="cd_top_books">Icon top 10 sách</string>
+    <string name="cd_book_categories">Icon loại sách</string>
+    <string name="cd_books">Icon sách</string>
+    <string name="cd_book_loan">Icon phiếu mượn</string>
+    <string name="cd_librarians">Icon thủ thư</string>
+    <string name="cd_members">Icon thành viên</string>
+
+    <!-- Hints -->
+    <string name="login_name">Tên đăng nhập</string>
+    <string name="password">Mật khẩu</string>
+    <string name="old_password">Mật khẩu cũ</string>
+    <string name="new_password">Mật khẩu mới</string>
+    <string name="confirm_password">Nhập lai mật khẩu</string>
+
+    <!-- Home screen buttons -->
+    <string name="thong_ke_doanh_thu">Thống kê doanh thu</string>
+    <string name="top_10_sach">Top 10 sách</string>
+    <string name="loai_sach">Loại sách</string>
+    <string name="sach">Sách</string>
+    <string name="phieu_muon">Phiếu mượn</string>
+    <string name="thu_thu">Thủ thư</string>
+    <string name="thanh_vien">Thành viên</string>
+
+    <!-- Instructions -->
+    <string name="changing_password">Để đổi mật khẩu, bạn cần nhập mật khẩu hiện tại và mật khẩu mới.</string>
+
+    <!-- Placeholders -->
+    <string name="welcome_text">Welcome, user!</string>
+
+    <!-- Sections -->
+    <string name="thong_ke_section">Thống kê</string>
+    <string name="quan_ly_section">Quản lý</string>
 </resources>
