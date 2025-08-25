@@ -13,6 +13,12 @@
         android:theme="@style/Theme.PNLib"
         tools:targetApi="31">
         <activity
+            android:name=".screens.statistics.DoanhThuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".screens.statistics.Top10SachActivity"
+            android:exported="false" />
+        <activity
             android:name=".screens.NewPasswordActivity"
             android:exported="false" />
         <activity

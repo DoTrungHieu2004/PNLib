@@ -5,6 +5,9 @@
     <string name="login">Đăng nhập</string>
     <string name="cancel">Hủy</string>
     <string name="save">Lưu</string>
+    <string name="start_date">Từ ngày</string>
+    <string name="end_date">Đến ngày</string>
+    <string name="revenue">Doanh thu</string>
 
     <!-- Checkbox -->
     <string name="checkbox_remember">Lưu mật khẩu</string>
@@ -39,8 +42,13 @@
 
     <!-- Placeholders -->
     <string name="welcome_text">Welcome, user!</string>
+    <string name="money">0 VNĐ</string>
 
     <!-- Sections -->
     <string name="thong_ke_section">Thống kê</string>
     <string name="quan_ly_section">Quản lý</string>
+
+    <!-- Toolbar menu -->
+    <string name="nav_change_password">Đổi mật khẩu</string>
+    <string name="nav_logout">Đăng xuất</string>
 </resources>
